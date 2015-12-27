@@ -289,4 +289,5 @@ end)
 
 AddGapcloseEvent(_W, 600, true, RyzeMenu)
 
-PrintChat(string.format("<font color='#1244EA'>Ryze:</font> <font color='#FFFFFF'> RyzeEdit Loaded! </font>"))
+PrintChat(string.format("<font color='#1244EA'>Ryze:</font> <font color='#FFFFFF'> RyzeEdit Loaded! Original script by deftsu, combo code by DarkFlight. </font>"))
+	PrintChat("Have Fun Using D3Carry Scripts: " ..GetObjectBaseName(myHero)) 
